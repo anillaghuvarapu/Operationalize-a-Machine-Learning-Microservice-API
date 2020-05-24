@@ -1,5 +1,5 @@
 ![CircleCI](https://circleci.com/gh/anillaghuvarapu/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)
-![CircleCI]https://circleci.com/gh/anillaghuvarapu/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg&circle-token=7bb6233cd9117e71a8016ccb65123d36f8c14d66
+![CircleCI](https://circleci.com/gh/anillaghuvarapu/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg&circle-token=7bb6233cd9117e71a8016ccb65123d36f8c14d66)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API.
